@@ -1,3 +1,4 @@
 rencana bootchamp
-- bootchamp front end
+- bootchamp front end 
+masuk ke bootchamp dibimbing
 - belajar pemrograman lebih lagi
