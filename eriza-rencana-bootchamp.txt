@@ -5,3 +5,4 @@ masuk ke bootchamp dibimbing
 - mahir bahasa pemrograman
  - react
  - git & github
+ main
