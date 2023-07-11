@@ -1,0 +1,3 @@
+rencana bootchamp
+- bootchamp front end
+- belajar pemrograman lebih lagi
