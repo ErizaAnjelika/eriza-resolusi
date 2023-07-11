@@ -3,3 +3,5 @@ rencana bootchamp
 masuk ke bootchamp dibimbing
 - belajar pemrograman lebih lagi
 - mahir bahasa pemrograman
+ - react
+ - git & github
